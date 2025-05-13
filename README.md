@@ -1,6 +1,6 @@
 # iWUE_CO2
 
-This repository contains the code and data necessary to reproduce the results and figures from the main manuscript of Zhan et al., submitted to a peer-reviewed journal.
+This repository contains the code and data necessary to reproduce the results from a manuscript of Zhan et al., submitted to a peer-reviewed journal.
 
 ## Code Overview
 
